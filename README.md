@@ -1,4 +1,4 @@
-# 📊 IBM HR Attrition Analysis (Machine Learning Project)
+# 📊 IBM HR Attrition Analysis 
 
 ## 📌 Project Overview
 This project focuses on analyzing employee attrition using the IBM HR dataset. The main objective is to identify key factors that influence employee turnover and build a machine learning model to predict attrition.
